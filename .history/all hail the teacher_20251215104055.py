@@ -10,4 +10,4 @@ praise_me()
 
 
 def ego():
-    print("I teach the best!!!")
+    print(" I teach ")

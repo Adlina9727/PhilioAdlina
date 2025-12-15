@@ -9,5 +9,4 @@ def praise_me():
 praise_me()
 
 
-def ego():
-    print("I teach the best!!!")
+def ego()
